@@ -1,0 +1,11 @@
+id,title,parentId,collectionPath,fullPath,rootCollection,group
+1001,Technology,,Technology,Work / Technology,Technology,Work
+1002,Social Media,,Social Media,Personal / Social Media,Social Media,Personal
+1003,Education,,Education,Learning / Education,Education,Learning
+1004,News,,News,Reference / News,News,Reference
+1005,Development,,Development,Work / Development,Development,Work
+1006,Design,,Design,Work / Design,Design,Work
+1007,Entertainment,,Entertainment,Personal / Entertainment,Entertainment,Personal
+1008,Finance,,Finance,Reference / Finance,Finance,Reference
+1009,Health,,Health,Personal / Health,Health,Personal
+1010,Travel,,Travel,Personal / Travel,Travel,Personal
